@@ -11,7 +11,7 @@ Source input is 10 bits, the pulses are shaped and to simulate the channel, nois
 At the reception we have the reception filter, sampling and decision making. 
 the Bit Error Rate (BER) is calculated. all the signals are plotted including the power spectral density.
 
-You can change the SNR and observe how the behaves for different schemes.  
+You can change the SNR and observe how the BER behaves for different schemes.  
 
 ### Install
 You need to package the app using Matlab App Designer ( a packaged app is included in the **packaged app** folder) and then install it in matlab.
