@@ -14,5 +14,5 @@ the Bit Error Rate (BER) is calculated. all the signals are plotted including th
 You can change the SNR and observe how the BER behaves for different schemes.  
 
 ### Install
-You need to package the app using Matlab App Designer ( a packaged app is included in the **packaged app** folder) and then install it in matlab.
+You need to package the app ( .mplab file ) using Matlab App Designer ( a packaged app is included in the **packaged app** folder) and then install it in matlab.
 run the app by typing **digcom** in the command prompt.
